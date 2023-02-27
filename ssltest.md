@@ -1,6 +1,6 @@
 Example of HTTPS communication with OpenSSL in C++
 
-https_server.c contains code for the server responds to the client's request through https. // UFC18M104141187142
+https_server.c contains code for the server responds to the client's request through https. // UFC18M045089228139
 
 https is the process of adding an encryption between http and tcp, and the code implementation differs from the general TCP Server in two ways:
 
